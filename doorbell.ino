@@ -68,11 +68,9 @@ void loop() {
           play_song(miiLength,mii,miiDurations,miiTempo);
           break;
         case 3:
-          //play_repository(hp,162,num_hp); //30
           play_song(hpLength,hp,hpDurations,hpTempo);
           break;
         case 4:
-          //play_repository(takeonme,144,num_takeonme);
           play_song(takeonmeLength,takeonme,takeonmeDurations,takeonmeTempo);
           break;
         default:
