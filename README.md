@@ -10,6 +10,9 @@ switch of your choice up to a wire and
 mount it outside your door. Then wire up
 a speaker inside. You can add more tunes
 by following the format in "songs.h".  
+
+For more details, you can view my instructable for this project here: https://www.instructables.com/id/Arduino-Doorbell/    
+
 \
 **Passive Buzzer/Piezoelectric Speaker**
 * Digital output 8
