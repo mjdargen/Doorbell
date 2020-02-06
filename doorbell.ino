@@ -2,7 +2,7 @@
   
   Doorbell
   Michael D'Argenio
-  mjdargenio@gmail.com
+  mjdargen@gmail.com
   https://dargenio.dev
   https://github.com/mjdargen
   September 21, 2019
